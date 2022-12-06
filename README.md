@@ -49,16 +49,9 @@ Following things are ready to be used directly with AdminLTE Theme.
 
 Once everything is installed, you are ready to go with generator.
 
-see: https://hau.xyz
 
 ## Vue 3 + bootstrap 5 + Bootstrap Icons: 
 
-https://github.com/devhau/hoya
-Contact: nguyenvanhaudev@gmail.com
-
-Donate:
-
-https://www.patreon.com/devhau
-
-http://paypal.me/haudev
+https://github.com/
+Contact: markmiddonticelauro@gmail.com
 
